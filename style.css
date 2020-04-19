@@ -1,0 +1,44 @@
+body{
+    background-image: url("assets/psybirds.gif");
+    background-size: cover;
+    }
+
+h1 {
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}
+
+h2, a, p, article{
+    color: white;
+    font-family: 'Bonbon', cursive;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+hr{
+    border-width: 2px;
+    border-color: red;
+    margin-top: 10px;
+}
+
+.padding{
+    padding:25px;
+}
+
+.emptydiv {
+    height: 10px;
+    background-color: none;
+}
+
+.black{
+    background-color:hsla(47, 90%, 4%, 0.7);
+}
+
+footer{
+    clear: auto;
+    text-align: right;
+}
+
+  

@@ -1,2 +1,2 @@
 # GitHomework-02-Portfolio
-Responsive Portfolio
+Created Home Page Design with Images
