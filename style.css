@@ -1,20 +1,46 @@
 body{
     background-image: url("assets/psybirds.gif");
     background-size: cover;
-    }
+}
+
+.portfoliobackground{
+    background-image: url("assets/psybirds02.jpg");
+}
+
+.contactbackground{
+    background-image: url("assets/psybirds03.jpg");
+}
 
 h1 {
     color: white;
     font-family: 'Rock Salt', cursive;
+    font-size: 35px;
 }
 
 h2, a, p, article{
     color: white;
-    font-family: 'Bonbon', cursive;
+    font-family: sans-serif, Arial, Helvetica;
 }
 
 nav{
-    margin-top: 20px;
+    margin: 5px 0;
+}
+
+.navdrop{
+    display: none;
+}
+
+.navline{
+    display: block;
+}
+
+.portcaption{
+    height:40px;
+    text-align: center;
+    background-color: hsla(47, 90%, 4%, 0.7);
+    position: relative;
+    bottom: 50px;
+    z-index: 1;
 }
 
 hr{
@@ -23,17 +49,20 @@ hr{
     margin-top: 10px;
 }
 
-.padding{
+.padding25{
     padding:25px;
 }
 
-.emptydiv {
-    height: 10px;
-    background-color: none;
+.padding5{
+    padding: 0 0 0 0;
 }
 
 .black{
     background-color:hsla(47, 90%, 4%, 0.7);
+}
+
+.opacity50{
+    background-color: hsla(60, 20%, 99%, 0.5);
 }
 
 footer{
@@ -42,3 +71,21 @@ footer{
 }
 
   
+@media (max-width: 992px) {
+    h1{
+        font-size:25px;
+    }
+
+    h2{
+        font-size:22px;
+    }
+
+    .navline{
+        display: none;
+    }
+
+    .navdrop{
+        display: inline;
+    }
+
+}
