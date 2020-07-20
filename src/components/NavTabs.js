@@ -24,7 +24,7 @@ function NavTabs() {
         <Link
           to="/about"
         >
-          <p className={location.pathname === "/about" ? "navActive" : "navText"}>ABOUT</p>
+          <p className={location.pathname === "/about" ? "navActive" : "navText"}>BIO</p>
         </Link>
       </li>
       <li className="nav-item">
