@@ -9,11 +9,15 @@ function Fullpage(props) {
     
     return (
         <div>
-            <p onClick={props.onClick}><strong>All Works</strong></p>
+            <p onClick={props.onClick} style={{transform: "translate(0, -50px)"}}><strong>  ALL WORKS</strong></p>
 
-            <div style={{textAlign: "center"}}>
+            <div style={{textAlign: "center", transform: "translate(0, -30px)"}}>
                 <p style={{color:"black", margin: "0 50px 0 50px"}}>{works[props.title].description}</p>
-                <a href="https://github.com/tingtingctt/" target="_blank"><img className="artwork" src={works[props.title].img} alt={props.title}/></a>
+                <img className="artwork" src={works[props.title].img} alt={props.title}/>
+                <br/><br/>
+                <a href={works[props.title].repo} target="_blank" style={{color: "black"}}><img className="logo" src={github} alt="github"/>Github Repo</a>
+                <br/>
+                <a href={works[props.title].deploy} target="_blank" style={{color: "black"}}><img className="logo" src={works[props.title].img} alt="github"/>Deployed Link</a>
             </div>
 
 

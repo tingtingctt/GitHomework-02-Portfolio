@@ -37,8 +37,14 @@ function Portfolio() {
     {show? (<>
       <div className="row">
         <div class="col-md-2">
+          <br/><br/>
           <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Imaginary-Traveler</p>
-          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Blossom-Your-WINDOWS</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Blossom-Your-Windows</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Fishes-No-Freedom</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>See-The-Sky</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Art-A-Burger</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Draw-A-Line</p>
+          <p style={{color:"gray"}} onMouseOver={mouseOver} onMouseLeave={mouseLeave} onClick={handleClick}>Go-Drink</p>
         </div>
 
         <div class="col-md-10">
