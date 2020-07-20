@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.153fef96.chunk.css",
-    "main.js": "/resume/static/js/main.e0b23b24.chunk.js",
-    "main.js.map": "/resume/static/js/main.e0b23b24.chunk.js.map",
+    "main.css": "/resume/static/css/main.a0e6819c.chunk.css",
+    "main.js": "/resume/static/js/main.88a68238.chunk.js",
+    "main.js.map": "/resume/static/js/main.88a68238.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.d3f9b4b2.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.d3f9b4b2.js.map",
-    "static/js/2.ff96fbe3.chunk.js": "/resume/static/js/2.ff96fbe3.chunk.js",
-    "static/js/2.ff96fbe3.chunk.js.map": "/resume/static/js/2.ff96fbe3.chunk.js.map",
+    "static/js/2.ee890ed2.chunk.js": "/resume/static/js/2.ee890ed2.chunk.js",
+    "static/js/2.ee890ed2.chunk.js.map": "/resume/static/js/2.ee890ed2.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.7b92239a59501865d7fd8886317a252e.js": "/resume/precache-manifest.7b92239a59501865d7fd8886317a252e.js",
+    "precache-manifest.eff9209cd38788cc6fc8a8b3cff2451c.js": "/resume/precache-manifest.eff9209cd38788cc6fc8a8b3cff2451c.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.153fef96.chunk.css.map": "/resume/static/css/main.153fef96.chunk.css.map",
-    "static/js/2.ff96fbe3.chunk.js.LICENSE.txt": "/resume/static/js/2.ff96fbe3.chunk.js.LICENSE.txt",
+    "static/css/main.a0e6819c.chunk.css.map": "/resume/static/css/main.a0e6819c.chunk.css.map",
+    "static/js/2.ee890ed2.chunk.js.LICENSE.txt": "/resume/static/js/2.ee890ed2.chunk.js.LICENSE.txt",
     "static/media/blossom.png": "/resume/static/media/blossom.39a2b086.png",
+    "static/media/burger.png": "/resume/static/media/burger.7a26c1a3.png",
+    "static/media/drink.png": "/resume/static/media/drink.32763e02.png",
+    "static/media/fishes.png": "/resume/static/media/fishes.cfd7986c.png",
     "static/media/github.png": "/resume/static/media/github.81fb7eff.png",
     "static/media/imaginary.gif": "/resume/static/media/imaginary.8437c14d.gif",
     "static/media/instagram.png": "/resume/static/media/instagram.643777be.png",
+    "static/media/line.png": "/resume/static/media/line.6dbf28fe.png",
+    "static/media/resume.png": "/resume/static/media/resume.a96f3e4c.png",
+    "static/media/sky.png": "/resume/static/media/sky.5712d841.png",
     "static/media/tingting.png": "/resume/static/media/tingting.123e9cda.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f9b4b2.js",
-    "static/js/2.ff96fbe3.chunk.js",
-    "static/css/main.153fef96.chunk.css",
-    "static/js/main.e0b23b24.chunk.js"
+    "static/js/2.ee890ed2.chunk.js",
+    "static/css/main.a0e6819c.chunk.css",
+    "static/js/main.88a68238.chunk.js"
   ]
 }
