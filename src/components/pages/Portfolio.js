@@ -59,13 +59,6 @@ function Portfolio() {
     
   }
       
-
-
-
-
-
-
-
     <Footer/>   
   </div>
   );

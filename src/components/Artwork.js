@@ -1,7 +1,6 @@
 import React from "react";
 import "./css/style.css"
 
-import github from "./images/github.png";
 import works from './worksCMS.js';
 
 function Artwork(props) {
