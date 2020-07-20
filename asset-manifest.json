@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.b259f894.chunk.css",
-    "main.js": "/resume/static/js/main.94a06246.chunk.js",
-    "main.js.map": "/resume/static/js/main.94a06246.chunk.js.map",
+    "main.css": "/resume/static/css/main.153fef96.chunk.css",
+    "main.js": "/resume/static/js/main.e0b23b24.chunk.js",
+    "main.js.map": "/resume/static/js/main.e0b23b24.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.d3f9b4b2.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.d3f9b4b2.js.map",
-    "static/js/2.2df8b3a7.chunk.js": "/resume/static/js/2.2df8b3a7.chunk.js",
-    "static/js/2.2df8b3a7.chunk.js.map": "/resume/static/js/2.2df8b3a7.chunk.js.map",
+    "static/js/2.ff96fbe3.chunk.js": "/resume/static/js/2.ff96fbe3.chunk.js",
+    "static/js/2.ff96fbe3.chunk.js.map": "/resume/static/js/2.ff96fbe3.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.c295c4df65052fa2c6e9ad2d5f760cd8.js": "/resume/precache-manifest.c295c4df65052fa2c6e9ad2d5f760cd8.js",
+    "precache-manifest.7b92239a59501865d7fd8886317a252e.js": "/resume/precache-manifest.7b92239a59501865d7fd8886317a252e.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.b259f894.chunk.css.map": "/resume/static/css/main.b259f894.chunk.css.map",
-    "static/js/2.2df8b3a7.chunk.js.LICENSE.txt": "/resume/static/js/2.2df8b3a7.chunk.js.LICENSE.txt",
+    "static/css/main.153fef96.chunk.css.map": "/resume/static/css/main.153fef96.chunk.css.map",
+    "static/js/2.ff96fbe3.chunk.js.LICENSE.txt": "/resume/static/js/2.ff96fbe3.chunk.js.LICENSE.txt",
+    "static/media/blossom.png": "/resume/static/media/blossom.39a2b086.png",
     "static/media/github.png": "/resume/static/media/github.81fb7eff.png",
+    "static/media/imaginary.gif": "/resume/static/media/imaginary.8437c14d.gif",
     "static/media/instagram.png": "/resume/static/media/instagram.643777be.png",
-    "static/media/tingting.png": "/resume/static/media/tingting.b025b703.png"
+    "static/media/tingting.png": "/resume/static/media/tingting.123e9cda.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f9b4b2.js",
-    "static/js/2.2df8b3a7.chunk.js",
-    "static/css/main.b259f894.chunk.css",
-    "static/js/main.94a06246.chunk.js"
+    "static/js/2.ff96fbe3.chunk.js",
+    "static/css/main.153fef96.chunk.css",
+    "static/js/main.e0b23b24.chunk.js"
   ]
 }
