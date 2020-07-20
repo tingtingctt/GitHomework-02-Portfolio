@@ -1,0 +1,46 @@
+.navText {
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    text-align: bottom;
+    color: gray;
+    margin: 35px 0px 5px 20px;
+    font-size: 13px;
+}
+
+.navText:hover {
+    text-decoration: underline;
+    color: gray;
+    font-size: 14px;
+    margin: 35px 0px 5px 20px;
+}
+
+.navActive {
+    font-family:'Josefin Sans',  Helvetica, sans-serif;
+    text-decoration: underline;
+    color: black;
+    font-size: 15px;
+    margin: 34px 0px 5px 20px;
+}
+
+#name {
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    float: left;
+    color: black;
+    margin-right: 100px;
+    font-size: 30px;
+    margin: 14px 0px 5px 20px;
+}
+
+.wrap {
+    margin-top: 5%;
+}
+
+p, a {
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+.logo {
+    height: 30px;
+    margin: 0 10px 0 10px;
+}
+
